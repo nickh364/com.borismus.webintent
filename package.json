@@ -1,0 +1,21 @@
+{
+  "name": "com.borismus.webintent",
+  "version": "1.0.0",
+  "description": "Web intents for Cordova",
+  "main": "webintent.js",
+  "directories": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickh364/com.borismus.webintent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/nickh364/com.borismus.webintent/issues"
+  },
+  "homepage": "https://github.com/nickh364/com.borismus.webintent#readme"
+}
